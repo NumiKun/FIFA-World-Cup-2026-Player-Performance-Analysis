@@ -87,7 +87,7 @@ Notebook `Analysis/fifa2026_analysis.ipynb` terdiri dari **12 seksi analisis** d
 
 ## 🚀 Interactive Dashboard (Streamlit)
 
-Selain notebook, proyek ini juga dilengkapi dengan **dashboard interaktif** berbasis Streamlit dengan tema dark premium dan semua chart menggunakan Plotly (zoom, hover, pan).
+Selain notebook, proyek ini juga dilengkapi dengan **dashboard interaktif** berbasis Streamlit dan semua chart menggunakan Plotly (zoom, hover, pan).
 
 > 🌐 **Live Demo:** [https://fifa-2026-analysis.streamlit.app/](https://fifa-2026-analysis.streamlit.app/)
 
