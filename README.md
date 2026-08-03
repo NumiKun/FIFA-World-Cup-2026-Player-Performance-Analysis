@@ -7,6 +7,7 @@
 ![Plotly](https://img.shields.io/badge/Plotly-Interactive-3F4F75?style=flat-square&logo=plotly)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Seaborn-11557c?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://fifa-2026-analysis.streamlit.app/)
 
 > Exploratory Data Analysis (EDA) lengkap dari dataset performa pemain FIFA World Cup 2026, mencakup analisis ofensif, defensif, fisik, tim, dan lebih banyak lagi — tersedia dalam format **Jupyter Notebook** (static) dan **Streamlit Dashboard** (interactive).
 
@@ -87,6 +88,8 @@ Notebook `Analysis/fifa2026_analysis.ipynb` terdiri dari **12 seksi analisis** d
 ## 🚀 Interactive Dashboard (Streamlit)
 
 Selain notebook, proyek ini juga dilengkapi dengan **dashboard interaktif** berbasis Streamlit dengan tema dark premium dan semua chart menggunakan Plotly (zoom, hover, pan).
+
+> 🌐 **Live Demo:** [https://fifa-2026-analysis.streamlit.app/](https://fifa-2026-analysis.streamlit.app/)
 
 ### Fitur Dashboard
 
@@ -172,6 +175,10 @@ streamlit run app.py
 ```
 
 > Buka browser di **http://localhost:8501**
+
+Atau akses langsung versi live yang sudah di-deploy:
+
+> 🌐 **[https://fifa-2026-analysis.streamlit.app/](https://fifa-2026-analysis.streamlit.app/)**
 
 ---
 
